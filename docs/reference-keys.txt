@@ -7,3 +7,9 @@ turn-bookdown-tutorial-into-awesome-book
 publish-awesome-book
 moving-forward
 write
+testing
+get-bookdown-tutorial-going-on-your-local-computer-1
+create-your-awesome-book-github-repo-1
+turn-bookdown-tutorial-into-awesome-book-1
+publish-awesome-book-1
+moving-forward-1
